@@ -1,1 +1,1 @@
-Tecworks is a Wordpress theme that uses the Groundworks CSS framework.  It highlights the responsive templates so that your WordPress site will be optimal on any device.
+Tecworks is a Forestry.io site that I working on my JAMStack skills and platform to learn on.
